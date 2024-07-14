@@ -70,7 +70,4 @@ When I'm not immersed in the world of technology, I love exploring the great out
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifislam007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🕒 WakaTime Stats from Last Year
-
-[![WakaTime Stats](https://wakatime.com/badge/user/arifislam007)](https://wakatime.com/@your_username)
 
