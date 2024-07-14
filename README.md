@@ -84,3 +84,8 @@ I aim to [Your Professional Goal].
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifislam007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifislam007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🕒 WakaTime Stats from Last Year
+
+[![WakaTime Stats](https://wakatime.com/badge/user/arifislam007)](https://wakatime.com/@your_username)
+
