@@ -26,21 +26,19 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ## 🎓 Certifications
 
 - **AWS Certified Solutions Architect – Associate**
-  - Issued: Dec 2023 | Expires: Dec 2026
+  - Issued: Dec 2023
 
 - **Certified Kubernetes Administrator (CKA)**
   - Issued: Oct 2023
 
 - **Certified DevOps Engineer**
   - Issued: Aug 2023
-  - Skills: RabbitMQ, Terraform, Continuous Integration and Continuous Delivery (CI/CD), DevOps
 
 - **Big Data Foundations - Level 1**
   - Issued: Sep 2019
 
 - **MCSA (Microsoft Certified Solutions Associate)**
   - Issued: Mar 2015
-  - Credential ID: F240-1756
 
 - **MCSA: Windows Server 2012**
   - Issued: Mar 2015
@@ -53,19 +51,6 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 - **RHCE (Red Hat Certified Engineer)**
 
-## 🚀 Projects
-
-Here are a few notable projects I've worked on:
-
-- **Project 1:** [Project Description] ([GitHub Repo](Link))
-- **Project 2:** [Project Description] ([GitHub Repo](Link))
-
-## 👯‍♀️ Contributions
-
-I'm passionate about contributing to open-source projects. Here are some of my contributions:
-
-- [Project Name](Link): Description of contribution.
-
 ## 🌍 Languages
 
 - English (Fluent)
@@ -73,7 +58,7 @@ I'm passionate about contributing to open-source projects. Here are some of my c
 
 ## 🎯 Goals
 
-I aim to [Your Professional Goal].
+I aim to [contribute actively to the tech community as a trainer and technology specialist. I aim to foster collaboration, share knowledge, and mentor aspiring professionals to advance the field of technology.].
 
 ## 🎶 Fun Fact
 
