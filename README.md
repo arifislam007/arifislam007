@@ -14,14 +14,11 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ### Assistant Manager (Infrastructure and DevOps) at Badsha Group of Industries
 - **Location:** Dhaka, Bangladesh
 - **Duration:** Aug 2023 - Present
-- **Responsibilities:**
-  - Describe responsibilities and achievements.
 
 ### DevOps Trainer at Page Cloud Academy
 - **Location:** Dhaka, Bangladesh (Remote)
 - **Duration:** Aug 2023 - Present
-- **Responsibilities:**
-  - Describe responsibilities and achievements.
+
 
 ## 🎓 Certifications
 
