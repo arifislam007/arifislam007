@@ -6,7 +6,7 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** AWS, C++, CSS3, Java, JavaScript, Python, Rust
+- **Programming Languages:** AWS, Python, Bash
 - **Technologies & Tools:** Docker, GCP, Git, Grafana, HTML5, Jenkins, Kubernetes, Linux (Ubuntu), MongoDB, MySQL, Terraform, Ansible, Prometheus, SonarQube, Trivy
 
 ## 💼 Experience
