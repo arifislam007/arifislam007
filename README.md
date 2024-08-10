@@ -19,6 +19,8 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 - **Location:** Dhaka, Bangladesh (Remote)
 - **Duration:** Aug 2023 - Present
 
+### Devops and system engineer freelancer
+- **Market Place:** Fiverr and upwork
 
 ## 🎓 Certifications
 
