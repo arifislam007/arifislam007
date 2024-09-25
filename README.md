@@ -105,7 +105,7 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ---
 
 ### 🏅 RHCE (Red Hat Certified Engineer)  
-![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white)  
 *Credential ID: 180-070-195* 
 
 ## 🌍 Languages
