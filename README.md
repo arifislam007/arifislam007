@@ -68,4 +68,17 @@ When I'm not immersed in the world of technology, I love exploring the great out
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifislam007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 GitHub Stats
+
+![MD AREFUL ISLAM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifislam007&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifislam007&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arifislam007&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arifislam007&theme=radical)
+
+
 
