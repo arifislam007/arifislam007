@@ -55,19 +55,6 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 - Expertise in Docker, Kubernetes, CI/CD, and cloud infrastructure management for diverse projects.
 
 
-## 💼 Experience
-
-### Assistant Manager (Infrastructure and DevOps) at Badsha Group of Industries
-- **Location:** Dhaka, Bangladesh
-- **Duration:** Aug 2023 - Present
-
-### DevOps Trainer at Page Cloud Academy
-- **Location:** Dhaka, Bangladesh (Remote)
-- **Duration:** Aug 2023 - Present
-
-### Devops and system engineer freelancer
-- **Market Place:** Fiverr and upwork
-
 ## 🎓 Certifications
 
 - **AWS Certified Solutions Architect – Associate**
