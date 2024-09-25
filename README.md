@@ -129,10 +129,6 @@ I aim to contribute actively to the tech community as a trainer and technology s
 - 📸 **Landscape Photographer:** When I'm not immersed in the world of technology, I love exploring the great outdoors and have a knack for capturing stunning landscape photographs!
 
 
-## 🎶 Fun Fact
-
-When I'm not immersed in the world of technology, I love exploring the great outdoors and have a knack for capturing stunning landscape photographs!
-
 ---
 
 ## 📊 GitHub Stats
