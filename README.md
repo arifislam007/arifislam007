@@ -29,6 +29,31 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ![Trivy](https://img.shields.io/badge/-Trivy-EE2326?logo=trivy&logoColor=fff&style=for-the-badge)
 
 
+## 💼 Experience
+
+### Assistant Manager (Infrastructure and DevOps)
+**Badsha Group of Industries**  
+📍 *Dhaka, Bangladesh*  
+🗓️ *Aug 2023 - Present*  
+- Spearheading infrastructure management and DevOps initiatives to enhance operational efficiency.
+- Leading cross-functional teams to implement CI/CD pipelines, automate workflows, and optimize cloud infrastructure.
+
+---
+
+### DevOps Trainer  
+**Page Cloud Academy**  
+📍 *Dhaka, Bangladesh (Remote)*  
+🗓️ *Aug 2023 - Present*  
+- Providing comprehensive DevOps training to professionals and students in a remote setting.
+- Designing course content that covers cutting-edge technologies and hands-on labs to facilitate practical learning.
+
+---
+
+### DevOps & System Engineer (Freelancer)  
+**Freelance Platforms:** Fiverr, Upwork  
+- Delivering top-tier DevOps and system engineering solutions to global clients.
+- Expertise in Docker, Kubernetes, CI/CD, and cloud infrastructure management for diverse projects.
+
 
 ## 💼 Experience
 
