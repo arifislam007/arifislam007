@@ -29,10 +29,6 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ![Trivy](https://img.shields.io/badge/-Trivy-EE2326?logo=trivy&logoColor=fff&style=for-the-badge)
 
 
-## 🔧 Skills & Tools
-
-- **Programming Languages:** Python, Bash
-- **Technologies & Tools:** Docker, AWS, GCP, Git, Grafana, HTML5, Jenkins, Kubernetes, Linux (Ubuntu), MongoDB, MySQL, Terraform, Ansible, Prometheus, SonarQube, Trivy
 
 ## 💼 Experience
 
