@@ -109,13 +109,9 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 ## 🌍 Languages
 
-- **Bangla:** ![Native Speaker](https://img.shields.io/badge/Native%20Speaker-blue?style=flat-square)
+- **Bangla:** ![Mother Tongue](https://img.shields.io/badge/Mother%20Tongue-blue?style=flat-square)
 - **English:** ![Fluent](https://img.shields.io/badge/Fluent-green?style=flat-square)
 
-
-## 🌍 Languages
-
-- English (Fluent)
 
 ## 🎯 Goals
 
