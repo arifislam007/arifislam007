@@ -107,34 +107,11 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ### 🏅 RHCE (Red Hat Certified Engineer)  
 ![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
+## 🌍 Languages
 
-## 🎓 Certifications
+- **Bangla:** ![Native Speaker](https://img.shields.io/badge/Native%20Speaker-blue?style=flat-square)
+- **English:** ![Fluent](https://img.shields.io/badge/Fluent-green?style=flat-square)
 
-- **AWS Certified Solutions Architect – Associate**
-  - Issued: Dec 2023
-
-- **Certified Kubernetes Administrator (CKA)**
-  - Issued: Oct 2023
-
-- **Certified DevOps Engineer**
-  - Issued: Aug 2023
-
-- **Big Data Foundations - Level 1**
-  - Issued: Sep 2019
-
-- **MCSA (Microsoft Certified Solutions Associate)**
-  - Issued: Mar 2015
-
-- **MCSA: Windows Server 2012**
-  - Issued: Mar 2015
-
-- **MCP (Microsoft Certified Professional)**
-  - Issued: Dec 2014
-
-- **RHCSA (Red Hat Certified System Administrator)**
-  - Credential ID: 180-070-195
-
-- **RHCE (Red Hat Certified Engineer)**
 
 ## 🌍 Languages
 
