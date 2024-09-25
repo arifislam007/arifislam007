@@ -64,10 +64,6 @@ When I'm not immersed in the world of technology, I love exploring the great out
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifislam007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifislam007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📊 GitHub Stats
 
 ![MD AREFUL ISLAM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifislam007&show_icons=true&theme=radical)
