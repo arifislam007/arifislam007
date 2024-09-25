@@ -129,6 +129,12 @@ As a DevOps and Tech Engineer, my primary goal is to lead the way in creating ef
 - 🎯 **Obsessed with Monitoring:** Yes, I do have Grafana dashboards for everything—including my home network!
 - 📸 **Landscape Photographer:** When I'm not immersed in the world of technology, I love exploring the great outdoors and have a knack for capturing stunning landscape photographs!
 
+---
+
+### Contribution Highlights:
+- 🌟 Active in **DevOps**, **Infrastructure Management**, and **Automation** projects.
+- 🛠️ Constantly building and maintaining **Docker**, **Kubernetes**, and **Cloud** solutions.
+- 🔧 Engaging with **Python**, **Bash**, and various development tools to improve system operations.
 
 ---
 
@@ -144,24 +150,7 @@ As a DevOps and Tech Engineer, my primary goal is to lead the way in creating ef
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arifislam007&theme=radical)
 
-## 📈 GitHub Contributions
 
-### 🚀 586 Contributions in the Last Year
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=arifislam007&theme=radical)
-
-Contributing to open source, personal projects, and client work across various technologies, showcasing my continuous learning and commitment to excellence.
-
-### Contribution Highlights:
-- 🌟 Active in **DevOps**, **Infrastructure Management**, and **Automation** projects.
-- 🛠️ Constantly building and maintaining **Docker**, **Kubernetes**, and **Cloud** solutions.
-- 🔧 Engaging with **Python**, **Bash**, and various development tools to improve system operations.
-
----
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=arifislam007&theme=radical)
-
-"Always striving to make meaningful contributions to the open-source community and professional projects."
 
 
 
