@@ -112,10 +112,10 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 - **Bangla:** ![Mother Tongue](https://img.shields.io/badge/Mother%20Tongue-blue?style=flat-square)
 - **English:** ![Fluent](https://img.shields.io/badge/Fluent-green?style=flat-square)
 
-
 ## 🎯 Goals
 
-I aim to contribute actively to the tech community as a trainer and technology specialist. I aim to foster collaboration, share knowledge, and mentor aspiring professionals to advance the field of technology.
+As a DevOps and Tech Engineer, my primary goal is to lead the way in creating efficient, scalable, and secure infrastructures. I am committed to leveraging my expertise in cloud technologies, automation, and continuous integration to deliver robust solutions that help businesses thrive in a fast-paced digital world. I also aim to contribute to the open-source community, share my knowledge through mentorship, and foster collaboration to inspire the next generation of engineers.
+
 
 ## 🎶 Fun Facts
 
