@@ -31,7 +31,7 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 ## 💼 Experience
 
-### Assistant Manager (Infrastructure and DevOps)
+### Assistant Manager (System and Infrastructure)
 **Badsha Group of Industries**  
 📍 *Dhaka, Bangladesh*  
 🗓️ *Aug 2023 - Present*  
