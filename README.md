@@ -30,11 +30,14 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=fff&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=fff&style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge)
 ![Trivy](https://img.shields.io/badge/-Trivy-EE2326?logo=trivy&logoColor=fff&style=for-the-badge)
+
 
 
 ## 💼 Experience
