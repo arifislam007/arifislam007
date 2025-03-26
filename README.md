@@ -39,10 +39,20 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 ## 💼 Experience
 
+### Operation Engineer
+**Portonics Limited**  
+📍 *Dhaka, Bangladesh*  
+🗓️ *Dec 2024 - Present*  
+- Spearheading infrastructure management and DevOps initiatives to enhance operational efficiency.
+- Leading cross-functional teams to implement CI/CD pipelines, automate workflows, and optimize cloud infrastructure.
+
+
+---
+
 ### Assistant Manager (System and Infrastructure)
 **Badsha Group of Industries**  
 📍 *Dhaka, Bangladesh*  
-🗓️ *Aug 2023 - Present*  
+🗓️ *Aug 2023 - Dec 20204*  
 - Spearheading infrastructure management and DevOps initiatives to enhance operational efficiency.
 - Leading cross-functional teams to implement CI/CD pipelines, automate workflows, and optimize cloud infrastructure.
 
