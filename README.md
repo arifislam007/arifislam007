@@ -86,6 +86,18 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 
 ---
 
+### 🏅 RHCSA (Red Hat Certified System Administrator)  
+![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white)  
+*Credential ID: 180-070-195*  
+
+---
+
+### 🏅 RHCE (Red Hat Certified Engineer)  
+![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white)  
+*Credential ID: 180-070-195* 
+
+---
+
 ### 🏅 Certified DevOps Engineer  
 ![DevOps](https://img.shields.io/badge/Certified-DevOps%20Engineer-green?style=flat-square&logo=devops&logoColor=white)  
 *Issued: Aug 2023*  
@@ -114,17 +126,6 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ![MCP](https://img.shields.io/badge/Microsoft-MCP-0078D4?style=flat-square&logo=microsoft&logoColor=white)  
 *Issued: Dec 2014*  
 
----
-
-### 🏅 RHCSA (Red Hat Certified System Administrator)  
-![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white)  
-*Credential ID: 180-070-195*  
-
----
-
-### 🏅 RHCE (Red Hat Certified Engineer)  
-![RHCE](https://img.shields.io/badge/Red%20Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white)  
-*Credential ID: 180-070-195* 
 
 ## 🌍 Languages
 
