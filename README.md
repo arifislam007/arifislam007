@@ -80,8 +80,7 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 ### Certified Kubernetes Administrator (CKA)  
 **The Linux Foundation**  
 Issued: January 2026  
-
-![CKA Badge](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
+![CKA Badge](https://img.shields.io/badge/Kubernetes-Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
 ### 🏅 AWS Certified Solutions Architect – Associate  
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square&logo=amazon-aws&logoColor=white)  
@@ -90,6 +89,7 @@ Issued: January 2026
 ---
 
 ### 🏅 Certified Kubernetes Administrator (CKA)  
+**Kode Kloud** 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 *Issued: Oct 2023*  
 
