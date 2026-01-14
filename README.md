@@ -90,8 +90,8 @@ Issued: January 2026
 
 ### 🏅 Certified Kubernetes Administrator (CKA)  
 **Kode Kloud** 
-*Issued: Oct 2023*  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+*Issued: Oct 2023*  
 
 ---
 
