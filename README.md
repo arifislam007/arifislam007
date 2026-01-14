@@ -81,7 +81,7 @@ Highly skilled IT professional with expertise in system engineering, DevOps prac
 **The Linux Foundation**  
 Issued: January 2026  
 
-![CKA Badge](https://training.linuxfoundation.org/wp-content/uploads/2021/01/cka-badge.png)
+![CKA Badge](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
 
 ### 🏅 AWS Certified Solutions Architect – Associate  
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square&logo=amazon-aws&logoColor=white)  
