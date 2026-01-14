@@ -88,13 +88,6 @@ Issued: January 2026
 
 ---
 
-### 🏅 Certified Kubernetes Administrator (CKA)  
-**Kode Kloud** 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-*Issued: Oct 2023*  
-
----
-
 ### 🏅 RHCSA (Red Hat Certified System Administrator)  
 ![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white)  
 *Credential ID: 180-070-195*  
